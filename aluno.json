@@ -1,0 +1,10 @@
+{
+    "matricula": "2026AB12",
+    "nome": "Mio Iwata",
+    "idade": 17,
+    "curso": "Desenvolvimento de Sistemas",
+    "notas": [8.5, 9.0, 7.5, 5.2],
+    "bolsista": true,
+    "endereco": "Curitiba",
+    "estado": "PR"
+}
