@@ -2,7 +2,7 @@
     {
         "id": 1,
         "autor": "Chu shu",
-        "texto:" "Terminei meu primerio projeto em JS! 🚀",
+        "texto": "Terminei meu primerio projeto em JS! 🚀",
         "publicado": true,
         "data": "22/06/2026",
         "metricas": {
@@ -12,7 +12,7 @@
         },
         "comentarios": [
             { "usuario": "Rei Code", "texto": "Parabéns! Qual foi o projeto? {T^T}"},
-            { "usuario2": "kyo Tech", "texto": "Incível!!!! Você me insipra muito! <3"},
+            { "usuario2": "kyo Tech", "texto": "Incível!!!! Você me inspira muito! <3"}
         ]
     }
 ]
